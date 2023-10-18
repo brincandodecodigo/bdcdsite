@@ -57,11 +57,6 @@ language_code = "pt-BR"
 # Set theme-color meta tag for Chrome browser
 theme_color = "#fff"
 
-# More about site's title
-title_separator = "|"  # set as |, -, _, etc
-title_addition = "Modern Documentation Theme"
-
-
 # Set date format in blog publish metadata
 timeformat = "%B %e, %Y" # e.g. June 14, 2021
 timezone = "America/New_York"
