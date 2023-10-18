@@ -8,7 +8,7 @@ theme = "adidoks"
 
 # The default language; used in feeds and search index
 # Note: the search index doesn't support Chinese/Japanese/Korean Languages
-default_language = "en"
+default_language = "pt"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -54,7 +54,7 @@ email = "aaranxu@outlook.com"
 is_netlify = true
 
 # Set HTML file language
-language_code = "en-US"
+language_code = "pt-BR"
 
 # Set theme-color meta tag for Chrome browser
 theme_color = "#fff"
@@ -88,7 +88,7 @@ twitter_site = "aaranxu"
 twitter_creator = "aaranxu"
 facebook_author = "ichunyun"
 facebook_publisher = "ichunyun"
-og_locale = "en_US"
+og_locale = "pt_BR"
 
 ## JSON-LD
 [extra.schema]
