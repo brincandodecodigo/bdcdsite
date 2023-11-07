@@ -26,4 +26,4 @@ A macro `println!` no Rust é uma poderosa ferramenta de formatação e exibiç�
 
 * [A linguagem de programação Rust](https://www.rust-lang.org/pt-BR)
 * [Livro oficial do Rust (em inglês)](https://doc.rust-lang.org/stable/book/)
-* [Tradução para portugês do Brasil do livro oficial do Rust](https://rust-br.github.io/rust-book-pt-br/)
+* [Tradução para português do Brasil do livro oficial do Rust](https://rust-br.github.io/rust-book-pt-br/)
