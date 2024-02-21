@@ -1,6 +1,6 @@
 +++
 title = "Existem diferenças entre design de código e arquitetura de software"
-date = 2024-02-05T18:38:00-03:00
+date = 2024-02-21T12:00:00-03:00
 draft = false
 
 [taxonomies]
